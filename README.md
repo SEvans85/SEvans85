@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and WordPress
 - 💞️ I’m looking to collaborate on any beginner projects
-- 📫 How to reach me ...
+- 📫 scottevans85@hotmail.com
 
 <!---
 SEvans85/SEvans85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
