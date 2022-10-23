@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 scottevans85@hotmail.com
 
+Preparing to start a Software Engineering Bootcamp on October 31st!
 <!---
 SEvans85/SEvans85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
