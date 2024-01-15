@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SEvans85
-- 👀 I’m interested in Web dev, Python, C#
-- 🌱 I’m currently learning Python and WordPress
+- 👀 I’m interested in Web dev, Python, Java
+- 🌱 I’m currently learning DevOps / Java
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 scottevans85@hotmail.com
 
