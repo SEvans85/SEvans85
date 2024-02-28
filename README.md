@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SEvans85
+- 👋 Hi, I’m Scott
 - 👀 I’m interested in DevOps, Python, Java
 - 🌱 I’m currently learning DevOps / Java
 - 💞️ I’m looking to collaborate on any beginner projects
