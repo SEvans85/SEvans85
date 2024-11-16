@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Scott
 - 👀 I’m interested in DevOps, Python
-- 🌱 I’m currently learning DevOps / Python
-- 💞️ I’m looking to collaborate on any beginner projects
+- 💞️ I’m looking to collaborate on any projects
 - 📫 scottevans85@hotmail.com
 
 ![Codewars](https://github.r2v.ch/codewars?user=SEvans85&stroke=COLOR)
