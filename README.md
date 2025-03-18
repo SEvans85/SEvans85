@@ -1,7 +1,7 @@
 👋 Hi, I’m Scott!  
 👀 I’m passionate about DevOps and Python.  
 📫 Reach me at **scottevans85@hotmail.com**  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/scott-evans-0a6944165/)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/scott-evans-0a6944165/)  
 
 ![Codewars](https://github.r2v.ch/codewars?user=SEvans85&stroke=COLOR)
 
